@@ -1,11 +1,11 @@
-<title>iot-exemplo-repositorio</title>
+# iot-exemplo-repositorio
 Discente: Bruno Mendes Abreu
 
 Docente: Amanda Paul Dull
 
 <img width="220" height="28" alt="68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53696d756c61722532306e6f2d54696e6b65726361642d6f72616e67653f7374796c653d666f722d7468652d6261646765266c6f676f3d6175746f6465736b" src="https://github.com/user-attachments/assets/dec30769-1f68-4b8e-89b4-0f414fcdba26" />
 
-<title>Vamos ligar o LED!</title>
+# Vamos ligar o LED!
 O projeto vai utilizar um botão como entrada para controlar um LED como saída. Ao pressionar o botão, o Arduino altera o estado do LED — cada clique liga ou desliga, funcionando como um interruptor eletrônico.
 
 O Arduino lê o estado do botão pelo pino 7
